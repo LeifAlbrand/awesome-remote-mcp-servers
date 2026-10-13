@@ -6,6 +6,8 @@
 > [!IMPORTANT]
 > [ray.run](https://ray.run/) – from idea to a production-grade MCP server in under a minute! 🦜
 
+
+
 <sup><a href="https://glama.ai/advertise">Ad</a></sup>
 
 A curated list of remote [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) servers — hosted endpoints you connect to over a URL. No install, no runtime, no local process.h
@@ -114,6 +116,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🧰 - [Other Tools & Integrations](#other-tools--integrations)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
+- [Ragfeed](https://ragfeed.de/claude) `https://api.ragfeed.de/mcp`
+  [![Ragfeed MCP connector](https://glama.ai/mcp/connectors/io.github.LeifAlbrand/ragfeed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LeifAlbrand/ragfeed)
+  🔐 - Web pages, PDFs and search results as LLM-ready Markdown or vector-DB chunks; Firecrawl-compatible API.
 - [7Maps](https://7it.co.il/7maps/) `https://7it.co.il/7maps/mcp`
   [![7Maps MCP connector](https://glama.ai/mcp/connectors/io.github.XLSV777/7maps/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.XLSV777/7maps)
   🔓 - Daily map of 22,000+ public MCP servers: status, tool risk, changes and routing to a tool; pay per call via x402.
